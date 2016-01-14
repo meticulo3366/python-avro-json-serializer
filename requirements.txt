@@ -1,2 +1,2 @@
-avro==1.7.6
+avro-python3=1.7.7
 simplejson
